@@ -1,0 +1,22 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "description": "fake server with fake database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Ethan",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8490/fake-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/8490/fake-server/issues"
+  },
+  "homepage": "https://github.com/8490/fake-server#readme"
+}
