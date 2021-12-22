@@ -2,7 +2,7 @@
   "name": "fake-server",
   "version": "1.0.0",
   "description": "In this article, we will create and host a fake server that we can deal with it as a normal Back-End Server and use all the CRUD Operations using HTTP requests.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": { 
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
